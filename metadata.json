@@ -1,0 +1,6 @@
+{
+  "name": "iPhone 17 Simulator",
+  "description": "An interactive replica of the iPhone 17 home screen with visual widgets, iOS apps, and strict navigation logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
